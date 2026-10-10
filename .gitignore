@@ -1,0 +1,14 @@
+# C/C++ build artifacts
+*.exe
+*.o
+*.obj
+*.out
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Generated board files
+board.html
+.luogu-board-cache.json
+.luogu-board-cache.tmp
